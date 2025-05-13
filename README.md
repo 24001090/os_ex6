@@ -136,8 +136,9 @@ int main() {
 
 
 ## OUTPUT
+![os 1](https://github.com/user-attachments/assets/72b13665-837a-42bc-8639-38e34fd2b80c)
+![os 2](https://github.com/user-attachments/assets/bc9a6d85-fe6c-4115-8efa-e85a9df1c006)
 
-![WhatsApp Image 2025-05-10 at 10 55 49_165de82e](https://github.com/user-attachments/assets/52ee54cc-9749-442e-8c84-ddcd19849ccc)
 
 # RESULT:
 The program is executed successfully.
